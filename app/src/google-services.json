@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "224137902108",
+    "firebase_url": "https://chat-app-2-357af-default-rtdb.firebaseio.com",
+    "project_id": "chat-app-2-357af",
+    "storage_bucket": "chat-app-2-357af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224137902108:android:3148ac25b4b21487dfc7d9",
+        "android_client_info": {
+          "package_name": "com.bianhailena.chatapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224137902108-7unudenbtenmilpepiufclpbha9ta5f3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bianhailena.chatapp2",
+            "certificate_hash": "65420b6e84e57ffa8c4ea7bb0f78c637cb9b346b"
+          }
+        },
+        {
+          "client_id": "224137902108-7ipbi0reta6l60b3svcqrbja3l8sl4cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1aYr3_weQiijh1JH6hviEo9GWQwJEsmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224137902108-7ipbi0reta6l60b3svcqrbja3l8sl4cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
